@@ -1,0 +1,60 @@
+﻿/* add your CSS here */
+	
+html {
+    background-color: white;
+}
+
+body {
+    border: 3px solid #f0e54d;
+    border-radius: 3px;
+    line-height: 20px;
+    background-color: #030132;
+    color: #f0e54d;
+    padding: 10px 5px 5px 10px;
+}
+
+h3 {
+    color: #e960a4;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+.animal-photo {
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 300px;
+    border: 1px solid #f0e54d;
+    border-radius: 5px;
+}
+
+.fact-list {
+    list-style-type: none;
+    padding: 10px 5px 5px 10px;
+}
+
+.label {
+    font-weight: bold;
+    color: #e960a4;
+}
+
+.animal-info {
+    width: 310px;
+    padding: 10px 5px 5px 10px;
+    border: 1px solid #f0e54d;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.animal-card {
+    width: 425px;
+    padding: 5px 5px 5px 10px;
+    border: 1px solid #f0e54d;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;  
+}	
